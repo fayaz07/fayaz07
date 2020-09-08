@@ -1,11 +1,13 @@
+[![Stackinflow](https://media-exp1.licdn.com/dms/image/C561BAQGN-xccX7fvCw/company-background_10000/0?e=1599660000&v=beta&t=nHrSyoSOsZAX8oSoxBWMFvC8PZ5_DcWPlN2gDMTvAwE)](https://www.linkedin.com/company/stackinflow/)
+
 ## Hi there 👋, I'm Mohammad Fayaz 🧑‍💻.
 
-###### A Software Developer 🚀 with experience of building Web 🕸️, Mobile 📱 applications and REST API's🖥. I Figure out things, Solve some problems and I can read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
+###### A Software Developer 🚀 with experience of building Mobile 📱 applications and REST API's🖥. I Figure out things, solve some problems, read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
 
 
 * Contributing to [@StackinFlow](https://github.com/stackinflow) Open Source Organisation.
 
-* Non-Tech time goes in to Running 🏃‍♂️ , Food 🍜, Travel 🌏 ....
+* Non-Tech time goes in to  Cricket 🏏, Running 🏃‍♂️ , Food 🍜, Travel 🌏 ....
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fayaz07/)
