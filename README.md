@@ -15,6 +15,6 @@
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@fayaz07)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/fayaz_7_/)
 
-[![Fayaz's github stats](https://github-readme-stats.vercel.app/api?username=fayaz07)](https://github.com/fayaz07/github-readme-stats)
+[![Fayaz's github stats](https://github-readme-stats.vercel.app/api?username=fayaz07&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/fayaz07/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayaz07&layout=compact)](https://github.com/fayaz07/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayaz07&layout=compact&count_private=true)](https://github.com/fayaz07/)
