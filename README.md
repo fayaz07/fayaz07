@@ -1,5 +1,3 @@
-[![Stackinflow](https://media-exp1.licdn.com/dms/image/C561BAQGN-xccX7fvCw/company-background_10000/0?e=1599660000&v=beta&t=nHrSyoSOsZAX8oSoxBWMFvC8PZ5_DcWPlN2gDMTvAwE)](https://www.linkedin.com/company/stackinflow/)
-
 ## Hi there 👋, I'm Mohammad Fayaz 🧑‍💻.
 
 ###### A Software Developer 🚀 with experience of building Mobile 📱 applications and REST API's🖥. I Figure out things, solve some problems, read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
@@ -15,6 +13,10 @@
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@fayaz07)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/fayaz_7_/)
 
-[![Fayaz's github stats](https://github-readme-stats.vercel.app/api?username=fayaz07&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/fayaz07/)
+[![Fayaz's github stats](https://github-readme-stats.vercel.app/api?username=fayaz07&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/fayaz07/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayaz07&layout=compact&count_private=true)](https://github.com/fayaz07/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayaz07&layout=compact&count_private=true)](https://github.com/fayaz07/)
+### I work with
+
+<img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" height="50px"/> <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_symbol_green_2.max-1500x1500.png" height="80px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="60px"/> <img src="https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png" height="80px"/> <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" height="70px"/> <img src="https://jwt.io/img/logo-asset.svg" height="70px"/>
+
+
