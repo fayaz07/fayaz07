@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Mohammad Fayaz 🧑‍💻.
 
+[![Repos Badge](https://badges.pufler.dev/repos/fayaz07)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/fayaz07/fayaz07)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/fayaz07)](https://badges.pufler.dev)
+
 ###### A Software Developer 🚀 with experience of building Mobile 📱 applications and REST API's🖥. I Figure out things, solve some problems, read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
 
 
