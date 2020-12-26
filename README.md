@@ -19,7 +19,7 @@
 
 ### I work with
 
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_symbol_green_2.max-1500x1500.png" height="80px"/> <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" height="70px"/>   <img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" height="50px"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="60px"/>  
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_symbol_green_2.max-1500x1500.png" height="80px"/> <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" height="70px"/>  &nbsp; &nbsp;  <img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" height="50px"/> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="60px" />  
 
 <!--
 <img src="https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png" height="80px"/> <img src="https://jwt.io/img/logo-asset.svg" height="70px"/>
