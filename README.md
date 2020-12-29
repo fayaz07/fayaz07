@@ -4,8 +4,7 @@
 
 ###### A Software Developer 🚀 with experience of building Mobile 📱 applications and REST API's🖥. I Figure out things, solve some problems, read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
 
-
-* Contributing to [@StackinFlow](https://github.com/stackinflow) Open Source Organisation.
+[![stackinflow](https://img.shields.io/badge/stackinflow-opensource-brightgreen)](https://stackinflow.github.io/)
 
 * Non-Tech time goes in to  Cricket 🏏, Running 🏃‍♂️ , Food 🍜, Travel 🌏 ....
 
