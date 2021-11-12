@@ -1,25 +1,19 @@
-## Hi there 👋, I'm Mohammad Fayaz 🧑‍💻.
+<h1 align="center"> Hi there 👋, I'm Mohammad Fayaz 🧑‍💻. </h1>
 
-[![Repos Badge](https://badges.pufler.dev/repos/fayaz07)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/fayaz07/fayaz07)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/fayaz07)](https://badges.pufler.dev)
+### Frameworks
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" height="64" width="64" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="64" width="64" />
 
-###### A Software Developer 🚀 with experience of building Mobile 📱 applications and REST API's🖥. I Figure out things, solve some problems, read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
+### Languages, libraries, extensions
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="64" width="64" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" height="64" width="64" />
 
-[![stackinflow](https://img.shields.io/badge/stackinflow-opensource-brightgreen)](https://stackinflow.github.io/)
+### Database's
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="64" width="64" />
 
-* Non-Tech time goes in to  Cricket 🏏, Running 🏃‍♂️ , Food 🍜, Travel 🌏 ....
+### IDE's & Tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" height="64" width="64" />
 
+### Operating systems
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="64" width="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="64" width="64" /> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fayaz07/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/fayaz7_)
-[![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@fayaz07)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/fayaz_7_/)
-
-[![Fayaz's github stats](https://github-readme-stats.vercel.app/api?username=fayaz07&count_private=true&show_icons=true)](https://github.com/fayaz07/)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fayaz07&layout=compact&count_private=true)](https://github.com/fayaz07/)
-
-### I work with
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_symbol_green_2.max-1500x1500.png" height="80px"/> <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" height="70px"/>  &nbsp; &nbsp;  <img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" height="50px"/> &nbsp; &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="60px" />  
-
-<!--
-<img src="https://cdn-media-1.freecodecamp.org/images/0*CPTNvq87xG-sUGdx.png" height="80px"/> <img src="https://jwt.io/img/logo-asset.svg" height="70px"/>
--->
+### Socials
+<a href="https://linkedin.com/in/fayaz07"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="32" width="32" /> </a>
