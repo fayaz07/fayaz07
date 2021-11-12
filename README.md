@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="48" width="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48" width="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="48" width="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="48" width="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" height="48" width="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" height="48" width="48" />
 
-### Database's
+### Databases
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="48" width="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="48" width="48" />
 
