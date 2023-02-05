@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm <a href="https://mohammadfayaz.in">Mohammad Fayaz</a> 🧑‍💻. </h1>
 
+![](https://komarev.com/ghpvc/?username=fayaz07&color=green)
+
 ### Working at
 <img src="./tw.png" width="35%" />
 
