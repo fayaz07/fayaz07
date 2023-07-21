@@ -5,4 +5,4 @@
 
 ### Socials
 
-<a href="https://linkedin.com/in/fayaz07"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="48" width="48" /> </a> <a href="https://medium.com/@fayaz07"><img src="./medium.png" height="48" /> </a> <a href="https://twitter.com/fayaz_7_"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="48" /> </a>
+<a href="https://linkedin.com/in/fayaz07"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="48" width="48" /> </a> <a href="https://medium.com/@fayaz07"><img src="./medium.png" height="48" /> 
